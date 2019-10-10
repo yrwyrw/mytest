@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //3
-        //2
         //1
         //Hello
         //Toast
